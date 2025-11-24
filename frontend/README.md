@@ -14,7 +14,7 @@ I am a US citizen and downloadable resumes in word/pdf format are recommended to
 
 I am going to use an existing resume that was professionally generated during recent QA and Cloud bootcamp experiences.
 
-![](./docs/images/resume-image-crc.jpg)
+![](./docs/images/resum-image-crc.jpg)
 
 I have basic to itermediate knowledge of HTML and CSS, therefore I am using GenAI to support the code generation that I will then manually refactor to my personal specifications.
 
