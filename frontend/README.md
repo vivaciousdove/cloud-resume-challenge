@@ -26,8 +26,14 @@ Do not use a CSS framework.
 Use the least amount of CSS tags
 '''
 
-This is the [generated output](./docs/html/11.24.25-resume-image-crc.html) that I will refactor
+This is the [generated output](./docs/html/11.24.25-resume-image-crc.html) that I will refactor.
 
+## HTML Adjustments
+- UTF8 will support most languages
+- Because I will apply mobile styling to the website, I am including the viewpoint meta tag <meta name="viewpoint" content="width=device-width, initial-scale=1" /> so mobile styling scales normally.
+- Will extract styles into its own stylesheet after satisfied with HTML.
+- Will simplify HTML markup CSS selector to be as minimal as possible.
+- For the HTML page, soft tabs 2 spaces matches Ruby standard tab format.
 
 
 
