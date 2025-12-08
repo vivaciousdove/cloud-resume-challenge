@@ -1,4 +1,4 @@
-# Frontend Technical Specification (testing webhook)
+# Frontend Technical Specification (testing webhook 2)
 
 - Create a static website that serves an html resume.
 - Using Codespaces as my IDE
