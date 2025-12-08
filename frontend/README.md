@@ -1,4 +1,4 @@
-# Frontend Technical Specification (local host pull from jenkins test via this readme update) (v1)
+# Frontend Technical Specification (testing webhook)
 
 - Create a static website that serves an html resume.
 - Using Codespaces as my IDE
